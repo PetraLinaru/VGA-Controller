@@ -1,0 +1,1 @@
+-w -s "D:\PROIECT PSN\proiect\library.cfg"  -j "D:\PROIECT PSN\proiect\cod\projlib.cfg"  -d "D:\PROIECT PSN\proiect\cod\compile\"  -work cod -dbg -e 100 -o "D:\PROIECT PSN\proiect\cod\src\cod_proiect.vhd" 

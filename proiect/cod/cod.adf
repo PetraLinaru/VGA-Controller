@@ -1,0 +1,41 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=cod
+
+[Library]
+cod=.\cod.lib
+
+[$LibMap$]
+cod=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/cod_proiect.vhd=-1
+/constrangeri.vhd=-1
+
+[Files.Data]
+.\src\cod_proiect.vhd=VHDL Source Code
+.\src\constrangeri.vhd=VHDL Source Code
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=vga_ctrl|behavioral|0 
+ShowHide=ShowTopLevel
+Selected=

@@ -1,0 +1,23 @@
+timestamp=1621342277432
+
+[vga_ctrl]
+A/behavioral=A/Behavioral 21|./src/cod_proiect.vhd|21|1*0
+B/behavioral=3*0
+H/behavioral=0*703
+R=./src/cod_proiect.vhd|7
+V=0*14937
+
+[~A]
+./src/cod_proiect.vhd~BehavioralVGA_CTRL=0*3973*13313
+./src/cod_proiect.vhd~VGA_CTRL=0*0*633
+ModifyID=7
+Version=73
+
+[~MFT]
+0=7|0cod.mgf|14937|0
+1=0|1cod.mgf|0|0
+3=0|3cod.mgf|0|0
+
+[~U]
+vga_ctrl=VGA_CTRL 11|0*13393|0*13878
+
